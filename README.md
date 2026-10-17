@@ -1,6 +1,6 @@
 ## 💡 Overview
 <p align="justify">
-Designed and developed an ESP32-based temperature and humidity data logger using a Finite State Machine (FSM), featuring configurable sampling intervals, MicroSD data logging, an OLED user interface, and a safe MicroSD removal feature.
+Designed and developed an ESP32-based temperature and humidity data logger using a Finite State Machine (FSM), featuring configurable sampling intervals, MicroSD data logging, an OLED user interface, and a safe remove MicroSD.
 </p>
 
 ## ✨ Features
