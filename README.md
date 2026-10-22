@@ -30,3 +30,5 @@ Designed and developed an ESP32-based temperature and humidity data logger using
 | 10 | Breadboard |
 | 11 | Jumper Wires |
 | 12 | ESP32 Expansion Board |
+
+## Schematic Design
