@@ -32,3 +32,6 @@ Designed and developed an ESP32-based temperature and humidity data logger using
 | 12 | ESP32 Expansion Board |
 
 ## Schematic Design
+## Finite State Machine (FSM)
+## Result
+## References
